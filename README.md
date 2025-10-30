@@ -1,32 +1,75 @@
-## Hello! Eu sou a Vitória Moura 😄👋
+# 👩🏻‍💻 ToriMoura
 
-<div>
-  <a href= "https://github.com/ToriMoura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ToriMoura&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToriMoura&layout=compact&langs_count=16&theme=radical"/>
-</div>
+**`Desenvolvedora FullStack`**
 
-<div style = "display: inline_block"><br>
-  <img align="center" alt="Tori-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tori-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tori-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+Me chamo Vitória Moura, sou estudante de Engenharia de Software no Centro universitário UDF e estagiária na área de dados no setor de operações de cartão no Centro cooperativo Sicoob. Gostmo muito da criação visual para web e de programar as funcionalidades porr trás de um layout bonito. Convido vocês a verem um pouco do meu projetos e me seguirem no Linkedin "[Vitória Moura](https://www.linkedin.com/in/vitoriaa-moura?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)", onde publico minhas experiencias na área de Ti.
 
-<div>
-  <a href = "https://www.linkedin.com/in/vitoriaa-moura/" > <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+---
 
-<!--
-**ToriMoura/ToriMoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 Linguagens e Tecnologias
 
-Here are some ideas to get you started:
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ToriMoura&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToriMoura&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+  />
+
+</p>
